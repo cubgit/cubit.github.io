@@ -1,1 +1,1 @@
-A website for my favourite character is currently being built here!
+_This is the website of Eric_ ![GitHub Logo](/images/logo.png)
