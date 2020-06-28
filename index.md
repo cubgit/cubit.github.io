@@ -1,1 +1,1 @@
-_This is the website of Eric_ ![GitHub Logo](/images/logo.png)
+This is the website for Eric, my favorite seaman
